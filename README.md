@@ -62,7 +62,7 @@ Looks like the answer is no - all of the offices have at least two employees!
 
 
 ```python
-#Your code here
+# Your code here
 ```
 
 ## Summary
